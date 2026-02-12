@@ -1,3 +1,8 @@
+"""
+author: mahnaz mohebzadeh
+date: feb 12
+Investigating Variables
+"""
 
 # Input
 name = "Mahnaz"
@@ -13,6 +18,7 @@ favourite_food = "shawarma"
 
 slope = 23
 y_intercept = 67
+
 x = 3
 y = slope * x + y_intercept
 
@@ -27,4 +33,3 @@ print(
     + f"I told my sister {sister_name} and {friends_name} about this and she just laughed at me 🙄"
     + "Anyway, that's the story of my math test."
 )
-
