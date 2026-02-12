@@ -18,6 +18,7 @@ favourite_food = "shawarma"
 
 slope = 23
 y_intercept = 67
+
 x = 3
 y = slope * x + y_intercept
 
