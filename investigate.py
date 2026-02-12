@@ -1,3 +1,8 @@
+"""
+author: mahnaz mohebzadeh
+date: feb 12
+Investigating Variables
+"""
 
 # Input
 name = "Mahnaz"
@@ -27,4 +32,3 @@ print(
     + f"I told my sister {sister_name} and {friends_name} about this and she just laughed at me 🙄"
     + "Anyway, that's the story of my math test."
 )
-
